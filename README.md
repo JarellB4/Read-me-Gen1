@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 TITLE
 ReadMEGenerator
 
@@ -41,3 +42,6 @@ THEN I am taken to the corresponding section of the README
 EXAMPLE
 ! [] ()
 
+=======
+# Read-me-Gen1
+>>>>>>> refs/remotes/origin/main
